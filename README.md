@@ -8,6 +8,7 @@ The purpose of this repository is to provide with several examples of MCMC metho
 4) Repelling-Attracting Metropolis (RAM)
 5) Kernel density MCMC
 6) Hamiltonian MC
+7) Parallel Tempering MC
 
 Additional purposes include providing examples of parameter estimation in ordinary differential equations (ODEs) and multimodal posterior distributions.
 
