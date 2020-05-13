@@ -7,6 +7,14 @@ Created on Thu May  7 18:47:01 2020
 
 
 Gibbs sampling for X ~N_2 ( \mu, \Sigma  )
+
+
+This is a baby example of Random Scan Gibbs sampling. 
+Suppose that you can sample from a univariate normal distribution, the script shows 
+how you can sample from a bivariate normal distribution using Gibbs sampling through
+a random scan of the kernels, which are the full conditionals. 
+Try it out with \rho=0.99 and a big number of iterations.
+
 """
 
 
