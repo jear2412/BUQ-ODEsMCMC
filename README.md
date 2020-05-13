@@ -8,6 +8,7 @@ The purpose of this repository is to provide  several examples of MCMC methods i
 4) Kernel density MCMC
 5) Hamiltonian MC
 6) Parallel Tempering MC
+7) Random scan Gibbs sampling
 
 Additional purposes include providing examples of parameter estimation in ordinary differential equations (ODEs) and multimodal posterior distributions.
 
