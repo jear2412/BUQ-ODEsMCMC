@@ -5,10 +5,9 @@ The purpose of this repository is to provide  several examples of MCMC methods i
 1) t walk
 2) emcee
 3) Repelling-Attracting Metropolis (RAM)
-4) Kernel density MCMC
-5) Hamiltonian MC
-6) Parallel Tempering MC
-7) Random scan Gibbs sampling
+4) Hamiltonian MC
+5) Parallel Tempering MC
+6) Random scan Gibbs sampling
 
 Additional purposes include providing examples of parameter estimation in ordinary differential equations (ODEs) and multimodal posterior distributions.
 
