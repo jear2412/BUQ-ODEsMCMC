@@ -11,4 +11,4 @@ The purpose of this repository is to provide  several examples of MCMC methods i
 
 Additional purposes include providing examples of parameter estimation in ordinary differential equations (ODEs) and multimodal posterior distributions.
 
-If you would like me to work out an specific example or have any doubts please contact me at javier.aguilar at cimat dot mx .
+If you would like me to work out a specific example or have any doubts please contact me at javier.aguilar at cimat dot mx .
