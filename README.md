@@ -1,4 +1,4 @@
-BUQ-ODEsMCMC
+BUQ-ODEs
 
 The title of the repository stands for Bayesian Uncertainty Quantification in Ordinary Differential Equations.
 
